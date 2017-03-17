@@ -117,6 +117,8 @@ Spring Security 也为我们提供了退出登录功能
 
 现在你应该知道怎么用Spring Security 来保护我们的Web 应用，我们的配置用的是 JavaConfig 而不是XML .
 
+[项目完整源码下载][github-source]
+
 
 [jekyll-hello]: http://localhost:8080/hello
 [servlet-getRemoteUser]: https://docs.oracle.com/javaee/6/api/javax/servlet/http/HttpServletRequest.html#getRemoteUser()
@@ -124,3 +126,4 @@ Spring Security 也为我们提供了退出登录功能
 [servlet-isUserInRole]:https://docs.oracle.com/javaee/6/api/javax/servlet/http/HttpServletRequest.html#isUserInRole(java.lang.String)
 [servlet-login]:https://docs.oracle.com/javaee/6/api/javax/servlet/http/HttpServletRequest.html#login(java.lang.String,java.lang.String)
 [servlet-logout]:https://docs.oracle.com/javaee/6/api/javax/servlet/http/HttpServletRequest.html#logout()
+[github-source]:https://github.com/lijingrong/spring-security-demos
