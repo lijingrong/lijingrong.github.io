@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "jsp项目JavaConfig集成Spring Security"
+title:  "基于JavaConfig集成Spring Security"
 date:   2017-03-17 14:44:26 +0800
 categories: jekyll update
 ---
