@@ -16,7 +16,7 @@
 title: 李景荣的个人网站
 email: jrliwiscom@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  分享自己的学习历程，坚持原创.
+  分享自己的学习历程，坚持原创。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
